@@ -27,7 +27,7 @@ unsigned int arr1_size = 16;    //Here I have made only the first 16 elements of
 uint8_t arr1[160] = {16, 93, 45, 96, 4, 8, 41, 203, 15, 49, 56, 59, 62, 97, 112, 186};  //Random values for the accessible function
 uint8_t arr2[256 * 512];    //Here array2 values are accessed via the arr1 values throught the function... can be thought as property  fetched for every user in db
 
-string secret = "BOOTCamp@SEAL#2025";  /* RETRIEVING THIS SECRET KEY IS THE GOAL OF THE ATTACKER */
+string secret = "FacultyUpdationProgram@SEAL#2025";  /* RETRIEVING THIS SECRET KEY IS THE GOAL OF THE ATTACKER */
 
 int fetch_function(size_t idx)
 {
